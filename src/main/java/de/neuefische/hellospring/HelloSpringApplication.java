@@ -1,4 +1,4 @@
-package de.neuefische.hellospring.app;
+package de.neuefische.hellospring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
