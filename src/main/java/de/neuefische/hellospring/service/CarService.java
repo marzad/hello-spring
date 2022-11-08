@@ -1,10 +1,11 @@
 package de.neuefische.hellospring.service;
 
-import de.neuefische.hellospring.classes.Car;
+import de.neuefische.hellospring.model.Car;
 import de.neuefische.hellospring.repository.CarRepository;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
-
+@Service
 public class CarService {
 
     private CarRepository carRepository;

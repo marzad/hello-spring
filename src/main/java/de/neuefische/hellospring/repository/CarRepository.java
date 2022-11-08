@@ -1,6 +1,6 @@
 package de.neuefische.hellospring.repository;
 
-import de.neuefische.hellospring.classes.Car;
+import de.neuefische.hellospring.model.Car;
 
 import java.util.ArrayList;
 import java.util.List;

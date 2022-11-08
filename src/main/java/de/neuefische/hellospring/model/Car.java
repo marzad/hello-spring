@@ -1,4 +1,4 @@
-package de.neuefische.hellospring.classes;
+package de.neuefische.hellospring.model;
 
 public class Car {
 
