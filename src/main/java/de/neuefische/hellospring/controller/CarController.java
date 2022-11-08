@@ -18,7 +18,7 @@ public class CarController {
         this.cars = cars;
     }
 
-    @GetMapping("cars")
+    @GetMapping
     public List<Car> getCars(){
         return cars.getCars();
     }
